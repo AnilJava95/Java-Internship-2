@@ -1,0 +1,13 @@
+<web-app>
+
+    <servlet>
+        <servlet-name>Servlet</servlet-name>
+        <servlet-class>ShowHeaders</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Servlet</servlet-name>
+        <url-pattern>/ServletURL</url-pattern>
+    </servlet-mapping>
+
+</web-app>
