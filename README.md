@@ -1,2 +1,1 @@
-# Java-Internship-2
-Notes i took and programs i wrote during my second internship. Servlet API.
+Notes I took and programs I wrote during my second internship. Servlet API.
